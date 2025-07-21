@@ -22,4 +22,6 @@ Training the model is conducted over 10 epochs using the `fit()` function, with 
 
 Overall, this project effectively showcases the implementation of a CNN for binary image classification using TensorFlow and Keras. It covers the entire workflow—from data extraction and preprocessing to model design, training, evaluation, and prediction—making it a comprehensive introduction to deep learning applied to computer vision tasks. The use of Jupyter Notebook allows for clear documentation and visualization, enhancing both the interpretability and reproducibility of the results.
 
+#OUTPUT
 
+<img width="487" height="512" alt="Image" src="https://github.com/user-attachments/assets/8a695fb5-9e25-4dd1-a672-9edd6ed03cdf" />
